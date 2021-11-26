@@ -19,7 +19,7 @@ npm i
 ```
 
 # 3. Input your mnemonic
-- Open mnemonic.txt file and input your mnemonic.
+- Open mnemonic.json file and input your mnemonic.
 
 
 # 4. Run
