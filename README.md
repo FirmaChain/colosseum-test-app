@@ -20,6 +20,7 @@ npm i
 
 # 3. Input your mnemonic
 - Open mnemonic.json file and input your mnemonic.
+- Your mnemonic will not be sent to anywhere, Don't worry!
 
 
 # 4. Run
