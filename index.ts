@@ -20,8 +20,9 @@ test();
 
 async function test() {
 
-    const fileData = fs.readFileSync("mnemonic.txt");
-    const mnemonic = fileData.toString();
+    const fileData = fs.readFileSync("mnemonic.json");
+    const readData = JSON.parse(fileData.toString());
+    const mnemonic = readData.mnemonic;
 
     let wallet = await firma.Wallet.fromMnemonic(mnemonic);
 
