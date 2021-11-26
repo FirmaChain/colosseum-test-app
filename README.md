@@ -6,11 +6,9 @@ If you have any questions, please feel free to contact us at contact@firmachain.
 
 # 1. Install Node.js
 
-You’ll need to have Node 14.0.0 or later version on your machine. We recommend using the latest LTS version. 
-
-You can install node.js from the link below.
-
-https://nodejs.org/en/
+- You’ll need to have Node 14.0.0 or later version on your machine. We recommend using the latest LTS version. 
+- You can install node.js from the link below.
+- https://nodejs.org/en/
 
 # 2. installation
 
@@ -29,7 +27,7 @@ npm i
 npm run start
 ```
 
-# 4. Upload log file to discord for firmachain validator.
+# 5. Upload log file on logs folder to discord for firmachain validator.
 ```
 ex) /logs/20211126.log
 ```
