@@ -20,7 +20,14 @@ cd colosseum-test-app
 npm i
 ```
 
-# 3. Run
+# 3. Input your mnemonic
+```
+// open mnemonic.txt
+// paste your mnemonic
+
+```
+
+# 4. Run
 ```
 npm run start
 ```
