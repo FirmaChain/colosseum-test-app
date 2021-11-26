@@ -21,11 +21,8 @@ npm i
 ```
 
 # 3. Input your mnemonic
-```
-// open mnemonic.txt
-// paste your mnemonic
+- Open mnemonic.txt file and input your mnemonic.
 
-```
 
 # 4. Run
 ```
